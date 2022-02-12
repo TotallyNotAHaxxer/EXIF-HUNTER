@@ -1,2 +1,11 @@
-# EXIF-HUNTER
-EXIF Hunter is a proof of concept to inject images, this is a module rewrite of the imginject module from the Black Hat go book this one also works with perl to grab the data of the image and output each bit of information about the image 
+```
+ ______     __  __     __     ______   __  __     __  __     __   __     ______   ______     ______    
+/\  ___\   /\_\_\_\   /\ \   /\  ___\ /\ \_\ \   /\ \/\ \   /\ "-.\ \   /\__  _\ /\  ___\   /\  == \   
+\ \  __\   \/_/\_\/_  \ \ \  \ \  __\ \ \  __ \  \ \ \_\ \  \ \ \-.  \  \/_/\ \/ \ \  __\   \ \  __<   
+ \ \_____\   /\_\/\_\  \ \_\  \ \_\    \ \_\ \_\  \ \_____\  \ \_\\"\_\    \ \_\  \ \_____\  \ \_\ \_\ 
+  \/_____/   \/_/\/_/   \/_/   \/_/     \/_/\/_/   \/_____/   \/_/ \/_/     \/_/   \/_____/   \/_/ /_/ 
+                                    Author -> ArkAngeL43
+
+                     Exif Hunter: A Framework for image injection with Go and Perl
+-------------------------------------------------------------------------------------------------------------
+```
